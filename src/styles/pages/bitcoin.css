@@ -1,0 +1,28 @@
+.bitcoinpricetag{
+    color: blue;
+    font-size: 3rem;
+    margin: 0 auto;
+    letter-spacing: 0.5;
+    margin-bottom: 2rem;
+    font-family: "Tw Cen MT",serif;
+
+}
+.bitcoinValuecard{
+    background-color: rgba(0, 0, 0, 0.0125)!important;
+    padding: 1rem;
+    padding-top: 2rem;
+    font-size: 2rem;
+    font-family: "Tw Cen MT",serif;
+    text-align: center;
+    max-width: fit-content;
+    margin: auto;
+    color: rgb(0,115,157);
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 1rem !important;
+    margin: 1rem auto;
+}
+.bitCoinValueUpadated{
+    font-size: 1.5rem;
+    color: black;
+    text-align: right ;
+}
